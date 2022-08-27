@@ -1,9 +1,6 @@
-<img src="https://giffiles.alphacoders.com/208/208933.gif"></img>
+<img src="https://raw.githubusercontent.com/QolMagiDev/QolMagiDev/main/Rem-gif.gif"></img>
 <h1 align="center">Hi 👋, I'm QolMagiDev</h1>
 <h3 align="center">Average programmer with no life</h3>
-
-<h1 align="center">Hi 👋, I'm QolMagiDev</h1>
-<h3 align="center">RemOnTop</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
