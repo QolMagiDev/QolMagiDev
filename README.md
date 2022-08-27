@@ -3,6 +3,9 @@
 <h3 align="center">Average programmer with no life</h3>
 
 <h3 align="left">Connect with me:</h3>
+<h4><b>Telegram : </b>@Magibot1</h4>
+<h4><b>Discord : </b> AlphaComputer#9846</h4>
+
 <p align="left">
 </p>
 
